@@ -1,4 +1,4 @@
-[{"id": 1,"name": "Tatyana","related": "Misha Perelman & Liza Rosenshtein-parents","Country": "Russia","City": "Novosibirsk","date of birth": "Oct 17","time": "9AM"}, 
+[{"id": 1,"name": "Tatyana","presenter": "Misha Perelman & Liza Rosenshtein-parents","summary": "Russia","room": "Novosibirsk","date ": "Oct 17","time": "9AM"}, 
 {"id": 2, "name": "Misha","presenter": "Lucia Snaulter","summary": "The main advantage of Node JS","room": "C244","date": "Oct 17","time": "10AM"}, 
 {"id": 3, "name": "Oleg","presenter": "Arnold Suarez","summary": "Companies that decided to substitute React JS by Vue JS","room": "C234","date": "Oct 17","time": "11AM"}, 
 {"id": 4, "name": "Antonina","presenter": "Alicia Mardston","summary": "Comparing features of different JS Frameworks","room": "C244","date": "Oct 17","time": "10AM"},
