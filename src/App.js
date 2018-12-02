@@ -35,7 +35,7 @@ const AppRouter = () => (
 
              <button type="button" className="button">
 
-             Events  informatio</button>
+             Who am I and where I was born?</button>
 
          </Link></center>
 
