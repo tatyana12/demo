@@ -15,8 +15,8 @@ class Three  extends Component {
                                                                 <ul>
                   <li>Name: {people.name}</li>
                   <li>Relationship: {people.relationship}</li>
-                  <li>Room: {people.room}</li>
-                  <li>Sumary: {people.summary}</li>
+                  <li>country: {people.country}</li>
+                  <li>city: {people.city}</li>
                   <li>Date: {people.date}</li>
                   <li>Time: {people.time}</li>
                 </ul>
