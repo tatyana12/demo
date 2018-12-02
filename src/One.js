@@ -15,8 +15,8 @@ class One extends Component {
 								<ul>
                   <li>Name: {people.name}</li>
                   <li>Parents: {people.parents}</li>
-                  <li>city: {people.counry}</li>
-                  <li>country: {people.city}</li>
+                  <li>city: {people.city}</li>
+                  <li>country: {people.country}</li>
                   <li>Date: {people.date}</li>
                   <li>Time: {people.time}</li>
 
