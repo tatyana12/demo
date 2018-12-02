@@ -14,9 +14,9 @@ class Four extends Component {
                                                         return (
                                                                 <ul>
                   <li>Name: {people.name}</li>
-                  <li>Presenter: {people.presenter}</li>
+                  <li>Relationship: {people.relationship}</li>
                   <li>city: {people.city}</li>
-                  <li>Country: {people.country}</li>
+                  <li>country: {people.country}</li>
                   <li>Date: {people.date}</li>
                   <li>Time: {people.time}</li>
                 </ul>
