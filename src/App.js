@@ -103,7 +103,7 @@ const AppRouter = () => (
 
             <Link to="/eight/">
                <button type="button"  className="button">
-               Natali
+               Edvard
               </button>
 
 
@@ -113,21 +113,14 @@ const AppRouter = () => (
             <Link to="/nine/">
 
                  <button type="button"  className="button">
-                 Vue, React, or Angular?
+                 Natali
               </button>
 
 
 
          </Link>
       </div>
-      <div>
-            <Link to="/ten/">
-              <button type="button"  className="button">
-                  Why Node JS?
-              </button>
-
-          </Link>
-      </div>
+      
       </div>
       <div className="column">
         <Route path="/" exact component={Index} />
@@ -158,9 +151,7 @@ const AppRouter = () => (
           <div className="content">
             <Route path="/nine/" component={Nine} />
           </div>
-          <div className="content">
-            <Route path="/ten/" component={Ten} />
-          </div>
+          
 
       </div>
       </div>
