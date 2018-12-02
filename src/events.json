@@ -3,8 +3,8 @@
 {"id": 3, "name": "Oleg","relationship": "Son","country": "Russia","city": "Vologda","date": "Jul 21,2082","time":"10PM"}, 
 {"id": 4, "name": "Antonina","relationship": "Daughter-in-Law","country": "Russia","city": "Novosibirsk","date": "Feb 23,1979","time": "10AM"},
 {"id": 5, "name": "Diana","relationship": "Daughter-in-Law","country": "Moldova","city": "Kishinew","date": "Jul 23,1983","time": "9AM"}, 
-{"id": 6, "name": "Dennis","relationship": "Joseph Abrantes","summary": "When JavaScript became the number 1 choice at ABC Company","room": "C235","date": "Oct 17","time": "11AM"}, 
-{"id": 7, "name": "Maria","relatiionship": "Margareth Tompson","summary": "What is EcmaScript and the main differences to JavaScript","room": "C234","date": "Oct 17","time": "1PM"},
-{"id": 8, "name": "Edvard","relationsip": "Donna Madison","summary": "Some tips to nail the technical interview of JavaScript","room": "C235","date": "Oct 17","time": "1PM"}, 
-{"id": 9, "name": "Natali","presenter": "Augusto Lopes","summary": "Comparing features of Vue, React, and Angular","room": "C235","date": "Oct 17","time": "2PM"}] 
+{"id": 6, "name": "Dennis","relationship": "Grandson","country": "When JavaScript became the number 1 choice at ABC Company","city": "C235","date": "Oct 17","time": "11AM"}, 
+{"id": 7, "name": "Maria","relatiionship": "Grandoughter","country": "What is EcmaScript and the main differences to JavaScript","city": "C234","date": "Oct 17","time": "1PM"},
+{"id": 8, "name": "Edvard","relationsip": "Grandsom","country": "Some tips to nail the technical interview of JavaScript","city": "C235","date": "Oct 17","time": "1PM"}, 
+{"id": 9, "name": "Natali","relationship": "Grandoughter","country": "Comparing features of Vue, React, and Angular","city": "C235","date": "Oct 17","time": "2PM"}] 
 
