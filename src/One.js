@@ -14,7 +14,7 @@ class One extends Component {
 							return (
 								<ul>
                   <li>Name: {people.name}</li>
-                  <li>Parents: {people.parents}</li>
+                  <li>Parents: {people.relationshipXy}</li>
                   <li>city: {people.city}</li>
                   <li>country: {people.country}</li>
                   <li>Date: {people.date}</li>
