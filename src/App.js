@@ -35,7 +35,7 @@ const AppRouter = () => (
 
              <button type="button" className="button">
 
-             Who am I and where I was born?</button>
+             Who am I and where/when I was born?</button>
 
          </Link></center>
 
